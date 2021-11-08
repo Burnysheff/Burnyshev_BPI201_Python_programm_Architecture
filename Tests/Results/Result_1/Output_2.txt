@@ -1,0 +1,69 @@
+It is 8 matrices in container
+Their average is 19.321180555555557
+
+
+This is a triangle matrix!
+
+Average is 0.0
+
+
+This is a diagonal matrix!
+4 0 0 
+0 5 0 
+0 0 -2 
+
+Average is 0.7777777777777778
+
+
+This is a diagonal matrix!
+6 0 0 0 0 
+0 8 0 0 0 
+0 0 2 0 0 
+0 0 0 4 0 
+0 0 0 0 5 
+
+Average is 1.0
+
+
+This is a diagonal matrix!
+10 0 0 0 
+0 2 0 0 
+0 0 3 0 
+0 0 0 1 
+
+Average is 1.0
+
+
+This is a diagonal matrix!
+4 0 0 
+0 5 0 
+0 0 6 
+
+Average is 1.6666666666666667
+
+
+This is a square matrix!
+4 4 
+5 6 
+
+Average is 4.75
+
+
+This is a triangle matrix!
+88 0 0 0 
+92 1 0 0 
+96 5 2 0 
+100 9 6 4 
+
+Average is 25.1875
+
+
+This is a triangle matrix!
+7 0 0 0 
+11 8 0 0 
+15 12 910 0 
+19 16 914 11 
+
+Average is 120.1875
+
+
